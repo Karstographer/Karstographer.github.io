@@ -1,0 +1,4 @@
+Sitemap: https://dcz.im/sitemapindex.xml
+
+User-Agent: *
+Host: dcz.im
