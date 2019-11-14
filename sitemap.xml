@@ -6,31 +6,23 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>https://dcz.im/</loc>
-  <lastmod>2019-11-14T01:45:00Z</lastmod>
+  <loc>http://dcz.im/</loc>
+  <lastmod>2019-11-14T02:41:00Z</lastmod>
  </url>
  <url>
-  <loc>https://dcz.im/2019/</loc>
-  <lastmod>2019-11-14T01:45:00Z</lastmod>
+  <loc>http://dcz.im/archive.html</loc>
+  <lastmod>2019-11-14T02:41:00Z</lastmod>
  </url>
  <url>
-  <loc>https://dcz.im/archive.html</loc>
-  <lastmod>2019-11-14T01:57:00Z</lastmod>
+  <loc>http://dcz.im/categories/</loc>
+  <lastmod>2019-11-14T02:41:00Z</lastmod>
  </url>
  <url>
-  <loc>https://dcz.im/categories/</loc>
-  <lastmod>2019-11-14T01:44:00Z</lastmod>
+  <loc>http://dcz.im/galleries/</loc>
+  <lastmod>2019-11-14T02:41:00Z</lastmod>
  </url>
  <url>
-  <loc>https://dcz.im/galleries/</loc>
-  <lastmod>2019-11-14T01:44:00Z</lastmod>
- </url>
- <url>
-  <loc>https://dcz.im/listings/</loc>
-  <lastmod>2019-11-14T01:44:00Z</lastmod>
- </url>
- <url>
-  <loc>https://dcz.im/posts/hello/</loc>
-  <lastmod>2019-11-14T01:45:00Z</lastmod>
+  <loc>http://dcz.im/listings/</loc>
+  <lastmod>2019-11-14T02:41:00Z</lastmod>
  </url>
 </urlset>
