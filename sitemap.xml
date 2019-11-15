@@ -7,14 +7,34 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://dcz.im/</loc>
-  <lastmod>2019-11-14T23:58:00Z</lastmod>
+  <lastmod>2019-11-15T04:36:00Z</lastmod>
  </url>
  <url>
   <loc>http://dcz.im/archive.html</loc>
-  <lastmod>2019-11-14T23:58:00Z</lastmod>
+  <lastmod>2019-11-15T04:50:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dcz.im/bio/</loc>
+  <lastmod>2019-11-15T00:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dcz.im/blog/</loc>
+  <lastmod>2019-11-15T03:04:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dcz.im/blog/new/</loc>
+  <lastmod>2019-11-15T03:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://dcz.im/categories/</loc>
   <lastmod>2019-11-14T02:50:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dcz.im/projects/</loc>
+  <lastmod>2019-11-15T04:36:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dcz.im/resume/</loc>
+  <lastmod>2019-11-15T04:36:00Z</lastmod>
  </url>
 </urlset>
